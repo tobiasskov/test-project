@@ -14,7 +14,6 @@ RUN apt-get update && apt-get install -y \
 # https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user#_creating-a-nonroot-user
 
 
-
 USER ubuntu
 
 #####
