@@ -15,7 +15,7 @@ RUN apt-get update && apt-get install -y \
 
 
 
-
+USER ubuntu
 
 #####
 FROM ubuntu:24.04 AS prod
