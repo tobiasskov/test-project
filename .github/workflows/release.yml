@@ -22,5 +22,4 @@ jobs:
       uses: python-semantic-release/python-semantic-release@v9.21.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        commit_message: "chore(release): {version}"
-        commit_author: "semantic-release-bot <semantic-release-bot@github.com>"
+        
