@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.1.2 (2025-04-09)
+
+### Bug Fixes
+
+- Added more details to semver
+  ([`a533ac7`](https://github.com/tobiasskov/test-project/commit/a533ac799446884c5055cb68254902f1780c8748))
+
+
 ## v0.1.1 (2025-04-09)
 
 ### Bug Fixes
