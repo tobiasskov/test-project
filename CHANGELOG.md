@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.1.4 (2025-04-09)
+
+### Bug Fixes
+
+- Udpates to github action
+  ([`9a73bd1`](https://github.com/tobiasskov/test-project/commit/9a73bd1a5b0e8a2799ada4b2115ec739ec0080c9))
+
+
 ## v0.1.3 (2025-04-09)
 
 ### Bug Fixes
