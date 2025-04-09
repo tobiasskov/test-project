@@ -2,7 +2,7 @@
 version = "0.1.0"
 
 [tool.semantic_release]
-version_toml = ["semver.toml:project.version"]
+version_toml = ["pyproject.toml:project.version"]
 branch = "main"
 build_command = ""
 upload_to_pypi = false  # Set to true if you want to publish to PyPI
