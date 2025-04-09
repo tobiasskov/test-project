@@ -1,12 +1,25 @@
 # CHANGELOG
 
 
+## v0.1.3 (2025-04-09)
+
+### Bug Fixes
+
+- Changing name of toml file
+  ([`6e98e65`](https://github.com/tobiasskov/test-project/commit/6e98e65cc61257aadec31b205fb73438679bbbf2))
+
+
 ## v0.1.2 (2025-04-09)
 
 ### Bug Fixes
 
 - Added more details to semver
   ([`a533ac7`](https://github.com/tobiasskov/test-project/commit/a533ac799446884c5055cb68254902f1780c8748))
+
+### Chores
+
+- **release**: 0.1.2
+  ([`8189a01`](https://github.com/tobiasskov/test-project/commit/8189a0135b9ee78819c019ce1c7ec1d128b8cde1))
 
 
 ## v0.1.1 (2025-04-09)
