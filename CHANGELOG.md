@@ -1,6 +1,17 @@
 # CHANGELOG
 
 
+## v0.1.1 (2025-04-09)
+
+### Bug Fixes
+
+- Change toml name to pyproject.toml
+  ([`52f0fb6`](https://github.com/tobiasskov/test-project/commit/52f0fb67971d63fd3c3e7b95ca5eb37c42bdbcd7))
+
+- Update pyproject.toml
+  ([`2c45775`](https://github.com/tobiasskov/test-project/commit/2c45775028d2bfc81bc4db08b94d074e68bf1be0))
+
+
 ## v0.1.0 (2025-04-09)
 
 ### Bug Fixes
