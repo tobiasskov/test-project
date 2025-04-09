@@ -1,6 +1,20 @@
 # CHANGELOG
 
 
+## v0.1.5 (2025-04-09)
+
+### Bug Fixes
+
+- Random change 1
+  ([`5f48847`](https://github.com/tobiasskov/test-project/commit/5f48847251739895c40544cf8185a3cb99c8231b))
+
+- Random change 2
+  ([`91d27fd`](https://github.com/tobiasskov/test-project/commit/91d27fd781e5eaf8814d32950eab5289a7a566f2))
+
+- Random change 3
+  ([`0b901b0`](https://github.com/tobiasskov/test-project/commit/0b901b0f71e0a1d65a428181b13f3dcbc00748fc))
+
+
 ## v0.1.4 (2025-04-09)
 
 ### Bug Fixes
